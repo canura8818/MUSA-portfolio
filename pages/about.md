@@ -5,7 +5,7 @@ headshot: headshot
 permalink: /about
 ---
 
-![headshot](C:/Users/chano/Downloads/Images/cvb.jpg)
+<img width="4320" height="2600" alt="cvb" src="https://github.com/user-attachments/assets/c3fa7b98-0395-43ca-84eb-c92bfcdb0d62" />
 
 # Introduction
 
