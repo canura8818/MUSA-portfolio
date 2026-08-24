@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-headshot: ![image](C:/Users/chano/Downloads/Images/cvb.jpg)
+headshot: ![image](/Users/chano/Downloads/Images/cvb.jpg)
 permalink: /about
 ---
 
