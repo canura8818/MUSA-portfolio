@@ -5,7 +5,7 @@ headshot: headshot
 permalink: /about
 ---
 
-<img width="984" height="984" alt="photo" src="https://github.com/user-attachments/assets/9ddcbf25-a563-4095-b019-3cfdb61f44b1" />
+<img width="300" height="300" alt="photo" src="https://github.com/user-attachments/assets/9ddcbf25-a563-4095-b019-3cfdb61f44b1" />
 
 
 # Introduction
